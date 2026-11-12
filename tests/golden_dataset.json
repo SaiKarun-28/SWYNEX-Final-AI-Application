@@ -1,0 +1,17 @@
+[
+  {"task": "Buy milk before Thursday", "expected_category": "Shopping", "expected_priority": "Medium"},
+  {"task": "Finish report by EOD", "expected_category": "Work", "expected_priority": "High"},
+  {"task": "Call mom", "expected_category": "Social", "expected_priority": "Low"},
+  {"task": "Take out trash", "expected_category": "Home", "expected_priority": "Medium"},
+  {"task": "Pay electricity bill", "expected_category": "Finance", "expected_priority": "High"},
+  {"task": "Schedule dentist appointment", "expected_category": "Health", "expected_priority": "Low"},
+  {"task": "Pick up dry cleaning", "expected_category": "Errands", "expected_priority": "Medium"},
+  {"task": "Meeting with team at 10am tomorrow", "expected_category": "Work", "expected_priority": "High"},
+  {"task": "Fix the leaky faucet eventually", "expected_category": "Home", "expected_priority": "Low"},
+  {"task": "Research new investment options", "expected_category": "Finance", "expected_priority": "Medium"},
+  {"task": "This task is really vague, just do something I guess??", "expected_category": "Other", "expected_priority": "Low"},
+  {"task": "Must buy coffee beans before I die of exhaustion", "expected_category": "Shopping", "expected_priority": "High"},
+  {"task": "Get the report done - or maybe not, who knows?", "expected_category": "Work", "expected_priority": "Medium"},
+  {"task": "Exercise for 30 mins", "expected_category": "Health", "expected_priority": "Medium"},
+  {"task": "Grocery store run for apples and oranges", "expected_category": "Shopping", "expected_priority": "Low"}
+]
